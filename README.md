@@ -1,6 +1,6 @@
 # 📄 data_loader (StudyMitraAI)
 
-This repo contains the **embedding microservice** for [StudyMitraAI](https://github.com/yourusername/studymitraAI).
+This repo contains the **embedding microservice** for [StudyMitraAI](https://github.com/Roshan4004/StudyMitraAI).
 
 This data_loader section of that project does:
 
@@ -15,4 +15,4 @@ This data_loader section of that project does:
 
 ⚠️ This is **not a user-facing repo** — it's a development microservice just to showcase how data from google drive is loaded, chuncked and then embedded for an application.
 
-See the full app: [StudyMitraAI →](https://github.com/yourusername/studymitraAI)
+See the full app: [StudyMitraAI →](https://github.com/Roshan4004/StudyMitraAI)
