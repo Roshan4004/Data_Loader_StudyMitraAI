@@ -1,0 +1,3 @@
+unstructured[pdf]
+google-api-python-client
+pymupdf

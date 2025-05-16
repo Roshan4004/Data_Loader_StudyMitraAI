@@ -1,0 +1,10 @@
+.env
+main-service.json
+folder_cache.json
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+.vscode/
+venv/
+test_chunks/
